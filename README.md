@@ -1,5 +1,7 @@
 # diGitalexit
-Exercises of course Statistical Analysis of High-Throughput Genomic and Transcriptomic Data
+#### Exercises of course Statistical Analysis of High-Throughput Genomic and Transcriptomic Data
+
+![](https://github.com/GianfrancoBotta/diGitalexit/blob/main/UZH_bioinfo.jpg)
 
 #### Personal information  
 Name: *Gianfranco Botta*  
