@@ -1,5 +1,4 @@
-# Exercises_UZH_Botta
-#### Exercises of course Statistical Analysis of High-Throughput Genomic and Transcriptomic Data
+# Exercises on genomic and transcriptomic data
 
 ![](https://github.com/GianfrancoBotta/diGitalexit/blob/main/UZH_bioinfo.jpg)
 
